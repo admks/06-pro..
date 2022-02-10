@@ -1,0 +1,15 @@
+.parent{
+    color: chartreuse;
+}
+
+.title{
+    color: rgb(224, 32, 192);
+}
+
+.child{
+    color: rgb(27, 211, 236);
+}
+
+body {
+background-color: rgb(76, 98, 98);
+}

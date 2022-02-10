@@ -1,0 +1,15 @@
+.parent{
+    background-color: aqua;
+}
+.title{
+    color: bisque;
+}
+
+.child{
+    color: rgb(236, 233, 27);
+}
+
+#parap {
+    color: rgb(38, 148, 62);
+}
+
